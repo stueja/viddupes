@@ -14,4 +14,5 @@ Finds possible video duplicates in a folder
  - renamed some file handles and variables
  - minor corrections (e. g. printf("\%") to printf("%%")
  - changed ffmpeg command line to use frames from somewhere within the video
+   (to adjust to video recordings with differing commercials before the recording)
 
